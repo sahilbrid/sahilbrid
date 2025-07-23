@@ -12,8 +12,8 @@
 ## 🌟 About Me
 
 🎓 B.E. in Artificial Intelligence and Machine Learning  
-🏆 7x Hackathon Winner | 4x Published Researcher  
-🚀 Passionate about building AI systems for healthcare and financial inclusion  
+🏆 4x Hackathon Winner | 3x Published Researcher  
+🚀 Passionate about building AI systems for real world problems 
 📍 India | 🌐 Open to remote opportunities  
 
 ---
@@ -24,7 +24,7 @@
 - Developed a **BiLSTM + Liquid State Machine model** for detecting vocal disorders
 - Achieved **97% accuracy**, validated on 100+ hospital patients
 - Visualized Mel Spectrograms for doctors to interpret results
-- 🏆 National Hackathon Finalist (Devshouse @ VIT Chennai)
+- 🏆 National Hackathon #14/3500 (Devshouse @ VIT Chennai)
 
 ---
 
@@ -79,7 +79,4 @@
 📍 Currently exploring: GenAI Agents | RAG Pipelines | Healthcare AI
 ```
 
-```
-📅 Resume: [Link to your resume PDF hosted on Google Drive or GitHub]
-```
 </div>
