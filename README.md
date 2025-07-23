@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Sahil Brid
 ### AI/ML Engineer | GenAI Developer | Hackathon Champion
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+about+solving+real-world+problems+with+AI;Hackathon+Champion+%7C+RAG+%7C+LLMs+%7C+AI+Agents;Building+next-gen+healthcare+and+fintech+AI+solutions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+about+solving+real-world+problems+with+AI;4x Hackathon+Champion+%7C+RAG+%7C+LLMs+%7C+AI+Agents;Building+next-gen+healthcare+and+fintech+AI+solutions)
 
 </div>
 
